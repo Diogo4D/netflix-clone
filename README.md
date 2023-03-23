@@ -1,2 +1,2 @@
 
-<a href="https://diogo4d.github.io/netflix-clone/index.html">Visite o site</a>
+<a href="https://netflix-clone-five-gilt.vercel.app/">Visite o Site<a/>
